@@ -3,4 +3,4 @@ b = 5
 c = 8
 
 d = a+b
-e = a-b
+e = a-b+c
